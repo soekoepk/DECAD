@@ -1,2 +1,2 @@
-# DECAD
-Data on Environmental Conflict and Development 
+# SECOND
+Social-ecological conflict database
